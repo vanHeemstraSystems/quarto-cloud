@@ -5,6 +5,8 @@ Based on "Posit Cloud" at https://posit.cloud/
 
 Based on "Welcome to Quarto Workshop! | Led by Tom Mock, RStudio" at https://www.youtube.com/watch?v=yvi5uXQMvu4
 
+Based on "VS Code - Tutorial - Quarto - Tutorial: Hello, Quarto" at https://quarto.org/docs/get-started/hello/vscode.html
+
 ## 100 - Introduction
 
 ## 200 - Requirements
