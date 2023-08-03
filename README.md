@@ -21,7 +21,7 @@ To access materials/slides, please visit:
 
 Login to Posit Cloud with GitHub credentials (wvanheemstra@icloud.com).
 
-Open the workshop ("quarto-in-2hrs") file at ~~https://posit.cloud/content/4332583~~, now copied to our own workspace at https://posit.cloud/content/6273364 or instead open this repo with [Gitpod](https://gitpod.io/#https://github.com/vanHeemstraSystems/quarto-cloud) and edit files from within your Visual Studio Code environment with the Quarto extension () installed.
+Open the workshop ("quarto-in-2hrs") file at ~~https://posit.cloud/content/4332583~~, now copied to our own workspace at https://posit.cloud/content/6273364 or instead open this repo with [Gitpod](https://gitpod.io/#https://github.com/vanHeemstraSystems/quarto-cloud) and edit files from within your Visual Studio Code environment with the Quarto extension installed. The easiest way to install the Quarto extension is directly from within VS Code (search extensions for "quarto").
 
 More ...
 
