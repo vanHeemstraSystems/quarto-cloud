@@ -15,7 +15,7 @@ Based on "VS Code - Tutorial - Quarto - Tutorial: Hello, Quarto" at https://quar
 
 Login to Posit Cloud with GitHub credentials (wvanheemstra@icloud.com).
 
-Open the workshop file at ~~https://posit.cloud/content/4332583~~, now copied to our own workspace at https://posit.cloud/content/6273364
+Open the workshop ("quarto-in-2hrs") file at ~~https://posit.cloud/content/4332583~~, now copied to our own workspace at https://posit.cloud/content/6273364
 
 More ...
 
