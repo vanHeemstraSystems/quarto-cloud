@@ -15,7 +15,7 @@ Based on "VS Code - Tutorial - Quarto - Tutorial: Hello, Quarto" at https://quar
 To access materials/slides, please visit:
 
 - Workshop Website/Slides at https://rstudio-conf-2022.github.io/get-started-quarto/
-- Workshop hands on keyboard activities: Clone https://github.com/jthomasmock/quarto-workshop
+- Workshop hands on keyboard activities: ~~Clone https://github.com/jthomasmock/quarto-workshop.~~ This repo is already a clone of the workshop ... and more.
 
 ## 300 - Building Our Application
 
