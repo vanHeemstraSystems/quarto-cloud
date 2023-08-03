@@ -21,7 +21,7 @@ To access materials/slides, please visit:
 
 Login to Posit Cloud with GitHub credentials (wvanheemstra@icloud.com).
 
-Open the workshop ("quarto-in-2hrs") file at ~~https://posit.cloud/content/4332583~~, now copied to our own workspace at https://posit.cloud/content/6273364
+Open the workshop ("quarto-in-2hrs") file at ~~https://posit.cloud/content/4332583~~, now copied to our own workspace at https://posit.cloud/content/6273364 or instead open this repo with [Gitpod]() and edit files from within your Visual Studio Code environment with the Quarto extension () installed.
 
 More ...
 
