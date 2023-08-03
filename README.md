@@ -11,6 +11,12 @@ Based on "VS Code - Tutorial - Quarto - Tutorial: Hello, Quarto" at https://quar
 
 ## 200 - Requirements
 
+### Materials
+To access materials/slides, please visit:
+
+- Workshop Website/Slides at https://rstudio-conf-2022.github.io/get-started-quarto/
+- Workshop hands on keyboard activities: Clone https://github.com/jthomasmock/quarto-workshop
+
 ## 300 - Building Our Application
 
 Login to Posit Cloud with GitHub credentials (wvanheemstra@icloud.com).
